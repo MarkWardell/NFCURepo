@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloConsole", "HelloConsole\HelloConsole.csproj", "{1233D58C-1A08-4BB3-9DF6-2222E66FF225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWinForms", "HelloWinForms\HelloWinForms.csproj", "{4763EA86-8BB2-4549-8010-01C44AC59884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1233D58C-1A08-4BB3-9DF6-2222E66FF225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1233D58C-1A08-4BB3-9DF6-2222E66FF225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1233D58C-1A08-4BB3-9DF6-2222E66FF225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1233D58C-1A08-4BB3-9DF6-2222E66FF225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4763EA86-8BB2-4549-8010-01C44AC59884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4763EA86-8BB2-4549-8010-01C44AC59884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4763EA86-8BB2-4549-8010-01C44AC59884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4763EA86-8BB2-4549-8010-01C44AC59884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {992942BC-5527-4203-B0D6-8008FE43665B}
+	EndGlobalSection
+EndGlobal
